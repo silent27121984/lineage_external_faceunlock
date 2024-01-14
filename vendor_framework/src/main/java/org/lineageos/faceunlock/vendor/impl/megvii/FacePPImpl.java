@@ -1,14 +1,14 @@
-package org.pixelexperience.faceunlock.vendor.impl.megvii;
+package org.lineageos.faceunlock.vendor.impl.megvii;
 
 
 import android.content.Context;
 import android.util.Log;
 
-import org.pixelexperience.faceunlock.vendor.R;
-import org.pixelexperience.faceunlock.vendor.VendorFaceManager;
-import org.pixelexperience.faceunlock.vendor.constants.AppConstants;
-import org.pixelexperience.faceunlock.vendor.utils.CustomUnlockEncryptor;
-import org.pixelexperience.faceunlock.vendor.utils.SharedUtil;
+import org.lineageos.faceunlock.vendor.R;
+import org.lineageos.faceunlock.vendor.VendorFaceManager;
+import org.lineageos.faceunlock.vendor.constants.AppConstants;
+import org.lineageos.faceunlock.vendor.utils.CustomUnlockEncryptor;
+import org.lineageos.faceunlock.vendor.utils.SharedUtil;
 
 import java.io.File;
 

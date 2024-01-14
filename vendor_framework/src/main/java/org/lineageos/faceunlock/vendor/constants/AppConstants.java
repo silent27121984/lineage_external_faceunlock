@@ -1,4 +1,4 @@
-package org.pixelexperience.faceunlock.vendor.constants;
+package org.lineageos.faceunlock.vendor.constants;
 
 public class AppConstants {
     public static final String SHARED_KEY_UUID = "uuid";

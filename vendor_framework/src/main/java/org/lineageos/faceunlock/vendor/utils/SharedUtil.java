@@ -1,4 +1,4 @@
-package org.pixelexperience.faceunlock.vendor.utils;
+package org.lineageos.faceunlock.vendor.utils;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
